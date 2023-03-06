@@ -34,7 +34,6 @@ Repositório das Atividades que estou desenvolvendo na graduação de ADS na UNI
 - [ ] Usabilidade e Interface Homem Máquina - 100h
 - [ ] Governança e Estratégias de TI - 100h
 - [ ] Atividades Práticas Interdisciplinares de Extensão II - 90h
-  Atividade complementar
 
-**Atividades Complementares**
+
 

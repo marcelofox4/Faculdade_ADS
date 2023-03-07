@@ -28,6 +28,8 @@ O Repositório tem como objetivo demonstrar o meu desenvolvimento na graduação
 
 
 
+
+
 ### ✅Redes de Computadores
 
 **Carga Horária**: 100h
@@ -47,6 +49,8 @@ O Repositório tem como objetivo demonstrar o meu desenvolvimento na graduação
 | 2.76         | 4.15         | 8.45  | 6.31  |
 
 [AV1 - Proposta de Serviço de Implantação de Rede de Computadores](https://github.com/marcelofox4/Faculdade_ADS/tree/master/1%20Periodo/Redes%20de%20Computadores/AV1%20-%20Atividade%20Contextualizada)
+
+
 
 
 
@@ -72,6 +76,8 @@ O Repositório tem como objetivo demonstrar o meu desenvolvimento na graduação
 
 
 
+
+
 ### ✅Lógica de Programação Algorítmica
 
 **Carga Horária**: 100h
@@ -91,6 +97,8 @@ O Repositório tem como objetivo demonstrar o meu desenvolvimento na graduação
 | 1.66         | 4.44         | 9.32  | 4.59  |
 
 [AV1 - Algoritmo para Cálculo do Imposto de Renda](https://github.com/marcelofox4/Faculdade_ADS/tree/master/1%20Periodo/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20Algor%C3%ADtmica/AV1%20-%20Atividade%20Contextualizada)
+
+
 
 
 
@@ -116,6 +124,8 @@ O Repositório tem como objetivo demonstrar o meu desenvolvimento na graduação
 
 
 
+
+
 ### ✅Transformação Digital, Sistemas Computacionais e o Futuro da Tecnologia
 
 **Carga Horária**: 100h
@@ -135,6 +145,10 @@ O Repositório tem como objetivo demonstrar o meu desenvolvimento na graduação
 | 4.42         | 4.23         | 8.75  | 7.58  |
 
 [AV1 - Criação de Startup (Tec. Easy)](https://github.com/marcelofox4/Faculdade_ADS/tree/master/1%20Periodo/Transforma%C3%A7%C3%A3o%20Tecnologica%2C%20Sistemas%20Computacionais%20e%20o%20Futuro%20da%20Tecnologia/AV1%20-%20Atividade%20Contextualizada)
+
+
+
+
 
 
 
@@ -164,6 +178,8 @@ O Repositório tem como objetivo demonstrar o meu desenvolvimento na graduação
 
 
 
+
+
 ### ✅Desenvolvimento de Aplicações para Internet
 
 **Carga Horária**: 100h
@@ -183,6 +199,8 @@ O Repositório tem como objetivo demonstrar o meu desenvolvimento na graduação
 | 4.21         | 4.39         | 8.57  | 7.78  |
 
 [AV1 - Ambiente de desenvolvimento para aplicações web em Java](https://github.com/marcelofox4/Faculdade_ADS/tree/master/2%20Periodo/Desenvolvimento%20de%20Aplica%C3%A7%C3%B5es%20para%20Internet/AV1%20-%20Atividade%20Contextualizada)
+
+
 
 
 
@@ -208,6 +226,8 @@ O Repositório tem como objetivo demonstrar o meu desenvolvimento na graduação
 
 
 
+
+
 ### ✅Gerenciamento de Projetos
 
 **Carga Horária**: 100h
@@ -230,6 +250,8 @@ O Repositório tem como objetivo demonstrar o meu desenvolvimento na graduação
 
 
 
+
+
 ### ✅Human Centred Design
 
 **Carga Horária**: 100h
@@ -249,6 +271,8 @@ O Repositório tem como objetivo demonstrar o meu desenvolvimento na graduação
 | 4.34         | 4.21         | 8.46  | 5.70  |
 
 [AV1 - PodCast](https://github.com/marcelofox4/Faculdade_ADS/tree/master/2%20Periodo/Human%20Centred%20Design/AV1%20-%20Atividade%20Contextualizada)
+
+
 
 
 

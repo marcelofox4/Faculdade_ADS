@@ -280,7 +280,7 @@ O Repositório tem como objetivo demonstrar o meu desenvolvimento na graduação
 
 **Carga Horária**: 100h
 
-**Tutor: **Mauricio da Motta Braga
+**Tutor**: Mauricio da Motta Braga
 
 **Notas**:
 
